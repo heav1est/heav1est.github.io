@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://heav1est.github.io/sitemap.xml 

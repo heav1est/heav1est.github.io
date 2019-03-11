@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: @heav1est | My Octopress Blog]]></title>
+  <link href="http://heav1est.github.io/blog/categories/at-heav1est/atom.xml" rel="self"/>
+  <link href="http://heav1est.github.io/"/>
+  <updated>2019-03-11T11:55:15+09:00</updated>
+  <id>http://heav1est.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Profile]]></title>
+    <link href="http://heav1est.github.io/blog/2019/03/11/profile/"/>
+    <updated>2019-03-11T11:50:57+09:00</updated>
+    <id>http://heav1est.github.io/blog/2019/03/11/profile</id>
+    <content type="html"><![CDATA[<h1>Profile</h1>
+
+<p>学生ゲーマーです。プログラミングはかじってるくらいなので、勉強の合間にかけるようになりたいです</p>
+
+<h2>Gaming Profile</h2>
+
+<h3>Now on playing</h3>
+
+<ul>
+<li>Fortnite - Switch版でプレイ中。PCの増設が完了したらPCに移行予定。最高ソロキル12くらい？雑魚。ちなみにSwitchのコントローラーのスティックはプレイに支障出るくらい故障してます。</li>
+</ul>
+
+
+<h3>Played in the past</h3>
+
+<ul>
+<li>Splatoon2 - X帯パラシェルター。最高フェスパワー2476.5。最高Xパワー2300超くらい？実績は特になし</li>
+</ul>
+
+
+<h2>My icons</h2>
+
+<p>Thank you for drawing for me!</p>
+
+<p><strong><strong>ウルさん</strong></strong>(<a href="https://twitter.com/urukisu_spl">https://twitter.com/urukisu_spl</a>)
+<img src="https://heav1est.github.io/Junk-Junction/icon1.jpg" alt="urukisu_spl" /></p>
+
+<p><strong><strong>ラバーさん</strong></strong>(Twitterアカウント不明)
+<img src="https://heav1est.github.io/Junk-Junction/icon2.jpg" alt="laber" /></p>
+
+<p><strong><strong>あめふれさん</strong></strong>(<a href="https://twitter.com/f_amagai">https://twitter.com/f_amagai</a>)
+<img src="https://heav1est.github.io/Junk-Junction/icon3.jpg" alt="f_amagai" /></p>
+
+<p><strong><strong>ちーいかさん</strong></strong>(<a href="https://twitter.com/Chihi3825_rom">https://twitter.com/Chihi3825_rom</a>)
+<img src="https://heav1est.github.io/Junk-Junction/icon4.jpg" alt="Chihi3825" /></p>
+
+<p><strong><strong>しくふくさん</strong></strong> (<a href="https://twitter.com/shikuhukukun">https://twitter.com/shikuhukukun</a>)
+<img src="https://heav1est.github.io/Junk-Junction/icon5.jpg" alt="shikuhukukun" /></p>
+
+<p><strong><strong>あね猫さん</strong></strong> (<a href="https://twitter.com/aneneko16">https://twitter.com/aneneko16</a>)
+<img src="https://heav1est.github.io/Junk-Junction/icon6.jpg" alt="aneneko16" /></p>
+
+<h2>Twitter</h2>
+
+<p><a href="https://twitter.com/heav1est?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @heav1est</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p><a class="twitter-timeline" href="https://twitter.com/heav1est?ref_src=twsrc%5Etfw">Tweets by heav1est</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content>
+  </entry>
+  
+</feed>
